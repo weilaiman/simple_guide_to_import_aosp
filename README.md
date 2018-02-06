@@ -31,6 +31,7 @@ repo sync platform/frameworks/base <br>
 3-1，在framework同级目录下建立 /out/host/linux-x86/framework目录<br>
 ----
 3-2，网络上下载idegen.jar，复制到/out/host/linux-86/framework下<br>
+https://github.com/weilaiman/simple_guide_to_import_aosp/blob/master/idegen.jar<br>
 ----
 3-3，在framework同级目录运行<br>
 repo sync platform/development
